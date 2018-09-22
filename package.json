@@ -1,0 +1,19 @@
+{
+  "name": "kappe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msnbl/Kappe-PsdtoHtmlCss.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msnbl/Kappe-PsdtoHtmlCss/issues"
+  },
+  "homepage": "https://github.com/msnbl/Kappe-PsdtoHtmlCss#readme"
+}
